@@ -8,7 +8,7 @@ distributions:
       default: melodic/release-build.yaml
     source_builds:
       default: melodic/source-build.yaml
-jenkins_url: http://192.168.1.51:8080
+jenkins_url: http://192.168.1.51
 prerequisites:
   debian_repositories:
   - http://192.168.1.52/ubuntu/building
