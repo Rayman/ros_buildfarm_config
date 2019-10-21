@@ -17,36 +17,59 @@ sync:
 repositories:
   keys:
   - |
-    -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: GnuPG v1
+        -----BEGIN PGP PUBLIC KEY BLOCK-----
+        Version: GnuPG v1
 
-    mQINBFzvJpYBEADY8l1YvO7iYW5gUESyzsTGnMvVUmlV3XarBaJz9bGRmgPXh7jc
-    VFrQhE0L/HV7LOfoLI9H2GWYyHBqN5ERBlcA8XxG3ZvX7t9nAZPQT2Xxe3GT3tro
-    u5oCR+SyHN9xPnUwDuqUSvJ2eqMYb9B/Hph3OmtjG30jSNq9kOF5bBTk1hOTGPH4
-    K/AY0jzT6OpHfXU6ytlFsI47ZKsnTUhipGsKucQ1CXlyirndZ3V3k70YaooZ55rG
-    aIoAWlx2H0J7sAHmqS29N9jV9mo135d+d+TdLBXI0PXtiHzE9IPaX+ctdSUrPnp+
-    TwR99lxglpIG6hLuvOMAaxiqFBB/Jf3XJ8OBakfS6nHrWH2WqQxRbiITl0irkQoz
-    pwNEF2Bv0+Jvs1UFEdVGz5a8xexQHst/RmKrtHLct3iOCvBNqoAQRbvWvBhPjO/p
-    V5cYeUljZ5wpHyFkaEViClaVWqa6PIsyLqmyjsruPCWlURLsQoQxABcL8bwxX7UT
-    hM6CtH6tGlYZ85RIzRifIm2oudzV5l+8oRgFr9yVcwyOFT6JCioqkwldW52P1pk/
-    /SnuexC6LYqqDuHUs5NnokzzpfS6QaWfTY5P5tz4KHJfsjDIktly3mKVfY0fSPVV
-    okdGpcUzvz2hq1fqjxB6MlB/1vtk0bImfcsoxBmF7H+4E9ZN1sX/tSb0KQARAQAB
-    tCZPcGVuIFJvYm90aWNzIDxpbmZvQG9zcmZvdW5kYXRpb24ub3JnPokCVAQTAQoA
-    PhYhBMHPbjHmut6IaLFytPQu1vurF8ZUBQJc7yaWAhsDBQkDwmcABQsJCAcCBhUK
-    CQgLAgQWAgMBAh4BAheAAAoJEPQu1vurF8ZUkhIP/RbZY1ErvCEUy8iLJm9aSpLQ
-    nDZl5xILOxyZlzpg+Ml5bb0EkQDr92foCgcvLeANKARNCaGLyNIWkuyDovPV0xZJ
-    rEy0kgBrDNb3++NmdI/+GA92pkedMXXioQvqdsxUagXAIB/sNGByJEhs37F05AnF
-    vZbjUhceq3xTlvAMcrBWrgB4NwBivZY6IgLvl/CRQpVYwANShIQdbvHvZSxRonWh
-    NXr6v/Wcf8rsp7g2VqJ2N2AcWT84aa9BLQ3Oe/SgrNx4QEhA1y7rc3oaqPVu5ZXO
-    K+4O14JrpbEZ3Xs9YEjrcOuEDEpYktA8qqUDTdFyZrxb9S6BquUKrA6jZgT913kj
-    J4e7YAZobC4rH0w4u0PrqDgYOkXA9Mo7L601/7ZaDJob80UcK+Z12ZSw73IgBix6
-    DiJVfXuWkk5PM2zsFn6UOQXUNlZlDAOj5NC01V0fJ8P0v6GO9YOSSQx0j5UtkUbR
-    fp/4W7uCPFvwAatWEHJhlM3sQNiMNStJFegr56xQu1a/cbJH7GdbseMhG/f0BaKQ
-    qXCI3ffB5y5AOLc9Hw7PYiTFQsuY1ePRhE+J9mejgWRZxkjAH/FlAubqXkDgterC
-    h+sLkzGf+my2IbsMCuc+3aeNMJ5Ej/vlXefCH/MpPWAHCqpQhe2DET/jRSaM53US
-    AHNx8kw4MPUkxExgI7Sd
-    =4Ofr
-    -----END PGP PUBLIC KEY BLOCK-----
+        mQINBF2fkAYBEADWFzOr6gsdYUrSecpa3qu7uMbH52V+8Sgcgz4jZZUAGYsnmVkM
+        /PlzXYFba2G1lGXsIjSrsMeD4fFluoxg/Gg+JhwCZxB0S0VdAmULSgxU2yWmYe+A
+        6j2UVJCHElQan32KzKftIuFcI748pj+JdLt5RhIqvndmxCjrk24Npc52glsQCMlI
+        fq3VNMFXKgw563USCm7T8tn6b7h3RXwFqAjtnLWxScfnmWcfRqcuLO/9k+BLWTF3
+        NjQuQcLJQkDAEamHC2Z5cRoEgyE8cgttMKXvxxu77DwQniCsP8lptmoTGNGhR+NF
+        l3nN/rklnR3wF3P5BhN1K80KV0oK2McFh3oBUvimgGyvlwWsSly42Aji8MYFHTAc
+        /L8TzNgsv47DW6NaPwmIvhNzQN4a1Gf2qN0OAg+Q/nJ8OHEPsVwQ31sCyXFMJrvs
+        Z8XNsoFkbiOjPf1NipCSlgB/FSwrHAKqLMU/ZABkj3NZH8QJlV61S8uMZEqWRAuO
+        O4MazO6cmOTD0XTyraTHzRtRmp0gEj6QZmwkasccLH25uX0KYMSPdIedqLmdjzct
+        mmX1MOxw4tL9RdJYu32obrjDvEmduXaIPWJgOz2JKUZqnDZMh+d06GLtl/uhI8E4
+        A91eElFg7Ylc5OfTLnWESkKAdo/ZP5dYQoKRu0Uv2z7PNJntdkJT5T4v6wARAQAB
+        tCZSYW1vbiBXaWpuYW5kcyA8cmF5bWFuNzQ3QGhvdG1haWwuY29tPokCTgQTAQoA
+        OBYhBGKP1YjUIsFYuBs9ExAckrDuOcYCBQJdn5AGAhsDBQsJCAcCBhUKCQgLAgQW
+        AgMBAh4BAheAAAoJEBAckrDuOcYCstEP+wcAO0sUdNEy0bG/4x6bPuPnOiFPe3vy
+        Br7vgM51M1NaWCietFw9ZzTRqXrmTYTQn7k7EbJ8e9m/ANVfQJNYDtFQkdQ0OCtr
+        TlNVEwRDFlnqmCuylt8OcWn7lnXxEmU0cUKb9O6iFR6lwOuik7YSZhAAsYMHn9zK
+        iFl1NgbXU7zsscUituyUxg/Ym7GOaoTBKp8zER7FDpHxg6+lmnbx5BXOvdAHx84R
+        5vEh0DXOiyJJfK4QA2X3WMEaQGJYpyxaUjHnfq/Vm2FhbT5KL8fV0CX/uE1Lvina
+        IzGG1oKWoF7d7etvfRjV20+Em6C7rYOKP9EEBcRCDHNSjyl9xH+DfxLhzMOA+JqX
+        KHIZWrqOwEH8QLOoQLhN0z+HqLitaK0db9dWREG7C4LVmmUZExu59lStMwNhMiVl
+        4XJvYRjIRlOyzbOyschnYUcMSvuNFVKd2iKaw3tHeNszGefFCOcP54D2rO9vMmY+
+        cqJ1/psEJZ8TS9IoiEzcons7+NbGPFr30NtrifhetxNSmjR/yMIybOMnw3tQwg+h
+        FsBtz9LXF3YSwtMcjX4i5odoG0QAkimrsdky4EGSJPhZbW022Ft8TtdbTQOw4fM4
+        AlMhtd0tepxAk3bTyoRqk00u5pApuMzeH02uSKJ9NX57PlpSJwl7SiVpaphkmhUJ
+        tTgI7hFAdUFQuQINBF2fkAYBEACscF/QH6fs4Wd7YE5WptBsqm3m5iui3l4EKsj7
+        PgITnnK94xF+WlN8Sd78FBtsglCv0wrVq7La4jTQ2AOe0q4cvx4LJVLOI2+n8vIR
+        +2s+1RNwKfCxQflT0f7PlTS7GTn+SCoyqG7NtgRE33eDTlLd75j7zTf3H+hNzQK/
+        BLuMoCj9YA0hHtxzJLTUoJFwotva1rnr2E1o0qVVItPoA318/mJ5EK0Ktg5W4a2y
+        oor5f37mVnMRmxvkxlsZwWgcGY+ppV5QLTrRnQGbyYCIVAVCKBSIIyrd24r310Sv
+        n36aUN895aG6IbHhwjny54oQtHk8rrGTusMg9dx8NsdV/Monzlo0s2GpUCZy0Ca3
+        54J4NbcpGcpDW+bXarNPjA3aozW0ydti+7PTC2qEtv8mD62RDtSRxYA7fTtWGwGk
+        86c6MztlQDy8EtABmmuSpL+WGMnRG2Ne+qkeMo9/uc9XLfO1Fx9RWidXgixOK3up
+        WKsTuiS8wYNEK7l5vByvwd3rRkZLkgiExQdb4s8nIA3TDgzECHZISw18Lcjl9KRd
+        1gGxXyWRrSGFhuWX8UamvvuvzPJ4cOA2/ElYnqmjDFLD8CmATJEM8kHNOEj/wada
+        EGuJFACZq130fXKyDYsXub2syvpRF0CK7sP4Kj2HQuuF3iIRZ8DXxALB+CUeq6Ch
+        j9CegwARAQABiQI2BBgBCgAgFiEEYo/ViNQiwVi4Gz0TEBySsO45xgIFAl2fkAYC
+        GwwACgkQEBySsO45xgIXQA//eyi4cuce9hW2chcsYjP5WEpSCo6PFL2ecS367TQG
+        EW951auq6fBr46+6EtM3L6A8rmaB0UgnjAT6tHJW5bNYk9Flr4BTsvFyTjr3aPmG
+        4XzlrPuBGrLj+nGG+f/OW62PiNIuelKKE7ZWBkM3JAGZrO556X9IPJG/cI9GBt9v
+        ZhKB4Bjs7gggo5Av+hfgeGWf2AqXKrmix0vIZbe4SZfMvfqZM/SEMUVd0Bqb9lFR
+        w6T1Q3S5ZKKdMB3zYEMmA2V5EtBpX8HhWNCX371xT9HM0wg5dd+oVyPxEYFhfbGi
+        X15WiaNJnM173sq3D17RmSPUeMBBd9te2LYu97Yr0oLkgAewDJjJXM+mQu4n9N/T
+        xb1hcDU1lCfexmPxLZY2w9Y2hi6l7CTzF6nuAo3Z/QgtyTqgmXjQ86A92FJaOMvo
+        dp7OPb6SFKUZT7NfCQde/+lsekdxpTYxHMqWLEs/83uQeGAMIOmfy5/vFFL8Qpj3
+        Z6aPgilkE8EGg5Gl4FTaEWXzKJGdQMN530/R32oPNhxLYv3eCk6R/kRaVQHCWMIZ
+        OkZhuddQ/Rq516bQxR0qmI46X6cWHAYPwBgL5XEVaazfcrCHIzJFypd6aADrC/1s
+        MQ8Olafdqd27NXkm+kepYTxtDz8hmVzH8ZACEbAfMwN8ElZqUwm3XUm71KC3OWvv
+        LPU=
+        =+oCg
+        -----END PGP PUBLIC KEY BLOCK-----
   urls:
   - http://192.168.1.51/ubuntu/building
 target_repository: http://192.168.1.51/ubuntu/building
