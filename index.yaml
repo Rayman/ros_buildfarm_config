@@ -16,36 +16,59 @@ prerequisites:
   - http://192.168.1.52/ubuntu/building
   debian_repository_keys:
   - |
-    -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: GnuPG v1
+        -----BEGIN PGP PUBLIC KEY BLOCK-----
+        Version: GnuPG v1
 
-    mQENBFRj9wABCADBxfCOCydUqsXS4JlhytBZroc7129AGHTn62xanKYXN1ihB5Ay
-    pLGJcz22MHnCegcCUA6HXOaOdLJTg8PZp/ncOGcLjRsmy+tkQzC0aX0yKhH1bKxe
-    TKe2/Kdk7y8SwW3Uw2r+R/d36DUoCTCRmibScIM4clD4eOOz/FZEVbnZuGmEKw1z
-    O5oMDgerEm8ou4s45RwIfTyt2UodxhLpjBWvuMKhKvc8JlpiZD/TMj+/uMhDe/eL
-    ijG+tMi9vUdo1B4xsDlLW7GFCmYXMBzhuO30TaC9PSE2e2cQS1jWX4113l32oXdg
-    IP8Nl1yxFGDPAKLQe+HNt7gyhoEkPP6tUKARABEBAAG0H1JPUyBSZWxlYXNlIDxu
-    b29uZUBleGFtcGxlLmNvbT6JATgEEwECACIFAlRj9wACGwMGCwkIBwMCBhUIAgkK
-    CwQWAgMBAh4BAheAAAoJEIsjFZ/llEM2cx8H/Ru8upiYAhwphPxOPEvkLfqZDEjI
-    LrFg4A5WhUvhMFpRzdOUovVCM9D73rtZEsaQgmtPIs1Mdp8M44E5G7sV9Zjp/4zf
-    T/vgopfBjG9M3foWkhWyupFlHm7AC9tv+3+vmzW5uzvrk/tRqirpU/5lm+wEE+Xq
-    Jy2UlkGj8o1WZDJXd0SoJF/MRXBwOa9kkpxNMLrOGSSra9GzBsIO9570QAUOD8pA
-    OKD+5pjDIdnySDpfBNIhv029dBhSKZg5sTzZr3dxise759l0W+8i1H6GUvxWe4km
-    8v7YDPyajsHs43ImbZQrMcr5l1TAVk8OBSLqGmtiLasRFnHQUxQyJNyo3gS5AQ0E
-    VGP3AAEIAM+qLZEg9qagVbm/FvS1wGlQVFgokjWGIZCxbzC2mNNAmyNXvOeCD899
-    N0xnprYd131Ocg53tllkYeSyUNBfO0f/CI0Msh+hzDivT0HqJxmxZGWHrm35to4e
-    LSIAOmoxDNXQwpC4ZNTUPZNNFdCfU0tGGXnA66BYpilfEv20eBgk1x+pu1vJxne1
-    /SPUwZAiiWb2ydRHvLJErUTcXGKn5UG4PlUAOCCoBC3195TIevlO9hlvtLkW9olu
-    hnWNtJJHfbjtwoQC+z5Kn4miFl/FkXAp8YfYSCF3glXAXY08dLIJkFCyi07J3jj6
-    I6xX0An+i8P/k/DyldjaMoutARLswuMAEQEAAYkBHwQYAQIACQUCVGP3AAIbDAAK
-    CRCLIxWf5ZRDNpN5CACdKoLcjJIIPQuCPyLdba5z6prRRo21Yud5dtyGGhOmDAt/
-    cjlmdwlta/ZkArkTB9is4iIDvo2D4PmRA756VHEBfhqwknt5DANMm3p9A5/z+sgX
-    n/punYuskxDjOU2+NwbBXRHgXz1vQpIEVtS3bQvjmyPn/yl31NM5zZ9Lwat/ynKj
-    iAvRflohugScLVSA0VCvn4gKlxCHBvtNS22rvsPW2zbOz38pp5gU+fNRUaLRmHna
-    b97l/64k31UzIQHeAHHbGODQfJ0PpKyS9UM4vvcMldUrBL4O4fLVaeqMjAhKSfcY
-    xaePFwP+okKW1h9qvwFhNF0JSCtdJrexdCf8jGE7
-    =E8ot
-    -----END PGP PUBLIC KEY BLOCK-----
+        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
+        LPU=
+        =+oCg
+        -----END PGP PUBLIC KEY BLOCK-----
 rosdistro_index_url: https://raw.githubusercontent.com/Rayman/toydistro/master/index.yaml
 status_page_repositories:
   default:
