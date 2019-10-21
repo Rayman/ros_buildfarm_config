@@ -46,7 +46,7 @@ repositories:
     =4Ofr
     -----END PGP PUBLIC KEY BLOCK-----
   urls:
-  - http://repositories.ros.org/ubuntu/testing
+  - http://192.168.1.51/ubuntu/testing
 targets:
   ubuntu:
     bionic:
