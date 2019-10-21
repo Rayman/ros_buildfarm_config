@@ -7,7 +7,7 @@ jenkins_binary_job_timeout: 720
 jenkins_source_job_priority: 65
 jenkins_source_job_timeout: 30
 notifications:
-  emails:
+  emails: []
   maintainers: false
 package_blacklist:
 - fetch_drivers
