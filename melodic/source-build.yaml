@@ -69,7 +69,7 @@ repositories:
         =+oCg
         -----END PGP PUBLIC KEY BLOCK-----
   urls:
-  - http://192.168.1.51/ubuntu/testing
+  - http://192.168.1.52/ubuntu/testing
 tag_whitelist:
 - custom
 targets:

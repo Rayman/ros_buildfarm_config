@@ -68,10 +68,10 @@ repositories:
         =+oCg
         -----END PGP PUBLIC KEY BLOCK-----
   urls:
-  - http://192.168.1.51/ubuntu/building
+  - http://192.168.1.52/ubuntu/building
 tag_whitelist:
 - custom
-target_repository: http://192.168.1.51/ubuntu/building
+target_repository: http://192.168.1.52/ubuntu/building
 targets:
   ubuntu:
     # EOLed
