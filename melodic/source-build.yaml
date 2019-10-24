@@ -70,6 +70,8 @@ repositories:
         -----END PGP PUBLIC KEY BLOCK-----
   urls:
   - http://192.168.1.51/ubuntu/testing
+tag_whitelist:
+- custom
 targets:
   ubuntu:
     bionic:
