@@ -5,7 +5,6 @@ distributions:
   melodic:
     notification_emails: []
     release_builds:
-      arm: melodic/release-armhf-build.yaml
       default: melodic/release-build.yaml
     source_builds:
       default: melodic/source-build.yaml
